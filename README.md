@@ -2,4 +2,4 @@
 [Electric Vehicle Population Dataset](https://www.kaggle.com/datasets/sahirmaharajj/electric-vehicle-population)
 
 ## Dashboard Snapshot
-![Dashboard Snapshot](SanpShot.png)
+![Dashboard Snapshot](SnapShot.png)
